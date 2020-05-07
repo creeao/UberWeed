@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2E380D6824524CAC00BCDA59 /* Uber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Uber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E380D6824524CAC00BCDA59 /* Uber Weed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Uber Weed.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E380D6B24524CAC00BCDA59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2E380D6D24524CAC00BCDA59 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2E380D6F24524CAC00BCDA59 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,7 +68,7 @@
 		2E380D6924524CAC00BCDA59 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2E380D6824524CAC00BCDA59 /* Uber.app */,
+				2E380D6824524CAC00BCDA59 /* Uber Weed.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -132,7 +132,7 @@
 			);
 			name = Uber;
 			productName = Uber;
-			productReference = 2E380D6824524CAC00BCDA59 /* Uber.app */;
+			productReference = 2E380D6824524CAC00BCDA59 /* Uber Weed.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -387,7 +387,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = macobserver.com.Uber;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Uber Weed";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -408,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = macobserver.com.Uber;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Uber Weed";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

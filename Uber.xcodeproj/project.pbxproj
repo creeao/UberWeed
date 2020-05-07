@@ -386,7 +386,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = macobserver.com.Uber;
+				PRODUCT_BUNDLE_IDENTIFIER = macobserver.com.UberWeed;
 				PRODUCT_NAME = "Uber Weed";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -407,7 +407,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = macobserver.com.Uber;
+				PRODUCT_BUNDLE_IDENTIFIER = macobserver.com.UberWeed;
 				PRODUCT_NAME = "Uber Weed";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

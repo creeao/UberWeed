@@ -10,7 +10,7 @@
  </table>
 
 ## General info
-Sale of tickets to the most popular theaters, cinemas, restaurants, pubs, amusement parks, beauty salons and many other places that enjoy recognition and guarantee entertainment at the highest level.
+Home delivery from coffeshops in your area.
 	
 ## What did I use?
-SwiftUI(Only View)
+Use SwiftUI, MapKit, CoreLocation, Realm(with cocoapods).

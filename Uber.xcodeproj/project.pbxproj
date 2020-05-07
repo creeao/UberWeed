@@ -14,6 +14,8 @@
 		2E380D7824524CB000BCDA59 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E380D7624524CB000BCDA59 /* LaunchScreen.storyboard */; };
 		2E77DC842453A0730040E5C3 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E77DC832453A0730040E5C3 /* Shop.swift */; };
 		2E77DC862453A0D40040E5C3 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E77DC852453A0D40040E5C3 /* Order.swift */; };
+		2EA510A4246483D9001F5058 /* AddCoffeShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA510A3246483D9001F5058 /* AddCoffeShop.swift */; };
+		2EA510A6246489E4001F5058 /* OrderToggleAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA510A5246489E4001F5058 /* OrderToggleAlert.swift */; };
 		2ED913E52454B20C00F29551 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ED913E32454B20B00F29551 /* Assets.xcassets */; };
 		93185C64422B9A519E7B79BF /* Pods_Uber.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3752C827755FA8A9DE28C716 /* Pods_Uber.framework */; };
 /* End PBXBuildFile section */
@@ -28,6 +30,8 @@
 		2E380D7924524CB000BCDA59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E77DC832453A0730040E5C3 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 		2E77DC852453A0D40040E5C3 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		2EA510A3246483D9001F5058 /* AddCoffeShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCoffeShop.swift; sourceTree = "<group>"; };
+		2EA510A5246489E4001F5058 /* OrderToggleAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderToggleAlert.swift; sourceTree = "<group>"; };
 		2ED913E42454B20B00F29551 /* Base */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Base; path = Base.lproj/Assets.xcassets; sourceTree = "<group>"; };
 		3752C827755FA8A9DE28C716 /* Pods_Uber.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Uber.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA56F635990DCEADBD0D44AA /* Pods-Uber.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Uber.debug.xcconfig"; path = "Target Support Files/Pods-Uber/Pods-Uber.debug.xcconfig"; sourceTree = "<group>"; };
@@ -79,6 +83,8 @@
 				2E380D6B24524CAC00BCDA59 /* AppDelegate.swift */,
 				2E380D6D24524CAC00BCDA59 /* SceneDelegate.swift */,
 				2E380D6F24524CAC00BCDA59 /* ContentView.swift */,
+				2EA510A3246483D9001F5058 /* AddCoffeShop.swift */,
+				2EA510A5246489E4001F5058 /* OrderToggleAlert.swift */,
 				2E77DC8024539FB40040E5C3 /* Data Model */,
 				2ED913E32454B20B00F29551 /* Assets.xcassets */,
 				2E380D7624524CB000BCDA59 /* LaunchScreen.storyboard */,
@@ -231,8 +237,10 @@
 				2E380D6C24524CAC00BCDA59 /* AppDelegate.swift in Sources */,
 				2E380D6E24524CAC00BCDA59 /* SceneDelegate.swift in Sources */,
 				2E77DC862453A0D40040E5C3 /* Order.swift in Sources */,
+				2EA510A4246483D9001F5058 /* AddCoffeShop.swift in Sources */,
 				2E380D7024524CAC00BCDA59 /* ContentView.swift in Sources */,
 				2E77DC842453A0730040E5C3 /* Shop.swift in Sources */,
+				2EA510A6246489E4001F5058 /* OrderToggleAlert.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

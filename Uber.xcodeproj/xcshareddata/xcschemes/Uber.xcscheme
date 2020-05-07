@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2E380D6724524CAC00BCDA59"
-               BuildableName = "Uber.app"
+               BuildableName = "Uber Weed.app"
                BlueprintName = "Uber"
                ReferencedContainer = "container:Uber.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2E380D6724524CAC00BCDA59"
-            BuildableName = "Uber.app"
+            BuildableName = "Uber Weed.app"
             BlueprintName = "Uber"
             ReferencedContainer = "container:Uber.xcodeproj">
          </BuildableReference>
@@ -66,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2E380D6724524CAC00BCDA59"
-            BuildableName = "Uber.app"
+            BuildableName = "Uber Weed.app"
             BlueprintName = "Uber"
             ReferencedContainer = "container:Uber.xcodeproj">
          </BuildableReference>

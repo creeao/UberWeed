@@ -10,7 +10,7 @@
  </table>
 
 ## General info
-Home delivery from coffeshops in your area.
+The database is local, stores will be opened in New York the first time they are launched. Therefore, change the locations in the simulator for this city and after restarting everything should be ok.
 	
 ## What did I use?
 Use SwiftUI, MapKit, CoreLocation, Realm(with cocoapods).
